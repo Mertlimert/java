@@ -9,8 +9,9 @@ public class Alper {
                 System.out.println(result);
             }
         }
-    };
+    }
     public static void main(String[] args){
         getNumbers();
-    };
+    }
 }
+
